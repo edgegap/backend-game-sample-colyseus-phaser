@@ -1,16 +1,16 @@
-
+> [!NOTE]
+> This sample is archived and no longer maintained. For a current Colyseus sample on Edgegap, see [backend-game-sample-threejs-colyseus-tanks](https://github.com/edgegap/backend-game-sample-threejs-colyseus-tanks) and the [Colyseus guide](https://docs.edgegap.com/docs/sample-projects/colyseus).
 
 Quick Start here!
 
 This code sample is a fork of Colyseus phaser demo (which you can find here https://github.com/colyseus/tutorial-phaser)  with the right elements to host on Edgegap.
 
 In this code sample, we packaged the demo above so it runs in a docker container on Edgegap’s platform. You will run both the client and the server within 1 container. 
-URL to the project is the wrong, it needs to be : 
 
 Pre-requesite: 
 A linux machine (or wsl on windows) with docker installed.
 
-Git clone https://github.com/edgegap/netcode-sample-colyseus-phaser.git
+Git clone https://github.com/edgegap/backend-game-sample-colyseus-phaser.git
 
 You need to build the docker image. You can build it on your machine and push it to a registry of your choice. Below we’ll push it to Edgegap’s registry. Make sure you are logged in your registry before running docker build (i.e. docker login)
 
