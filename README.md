@@ -1,5 +1,5 @@
 > [!NOTE]
-> This sample is archived and no longer maintained. For a current Colyseus sample on Edgegap, see [backend-game-sample-threejs-colyseus-tanks](https://github.com/edgegap/backend-game-sample-threejs-colyseus-tanks) and the [Colyseus guide](https://docs.edgegap.com/docs/sample-projects/colyseus).
+> This sample is archived and no longer maintained. For a current Colyseus sample on Edgegap, see [backend-game-sample-threejs-colyseus-tanks](https://github.com/edgegap/backend-game-sample-threejs-colyseus-tanks) and the [Colyseus Realtime Tanks guide](https://docs.edgegap.com/docs/sample-projects/web-games/colyseus-realtime-tanks).
 
 Quick Start here!
 
